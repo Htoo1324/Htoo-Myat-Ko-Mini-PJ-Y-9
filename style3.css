@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    margin-left:20px;
+    padding-top:15px;
+}
+video{
+    margin:4px;
+    border:10px;
+    height: 550px;
+    padding:30px;
+}
+p{
+   color: aliceblue;
+   font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: medium;
+   text-align:justify;
+   padding: 50px;
+}
+h3{
+    color: aliceblue;
+    font-style: italic;
+    font-size: medium;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+}
+legend{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+}
+aside{
+    width:30%;
+    background-color: black;
+    font-style: italic;
+    float:right;
+    padding-left:10px;
+    text-align: right;
+}
+.container{
+    margin-left:30px;
+    margin-right:30px;
+}
+a{
+    text-decoration:none;
+    margin-left:30px;
+    color: rgb(255, 255, 255);
+    margin-top:20px;
+}
+nav{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(19, 18, 18,0.5);
+    height:50px;
+    padding-top:15px;
+}
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color:rgba(0, 0, 0,0.5);
+      color: white;
+}
